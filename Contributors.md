@@ -197,6 +197,7 @@ kyle-xa
 - [Aastha Gulati](https://github.com/aasthagulati2049)
 - [amd47802574](https://github.com/amd47802574)
 - [Hoang Quoc Viet](https://github.com/hoangquocviet-dev)
+- [Shaurya Kadlag](https://github.com/shauryakadlag) - My first contribution!
 - [Tanaya Ghate](https://github.com/tanughate05) - let the battle begin!
 - [Wajid Rashid](https://github.com/i-wajidrashid)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
